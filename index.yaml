@@ -3,11 +3,11 @@ entries:
   example:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-03-12T15:28:23.611309671Z"
+    created: "2020-03-12T15:31:38.403464996Z"
     description: A Helm chart for Kubernetes
-    digest: 6a72a19de4b1ebd545ecfe13e696f545b60313d9a1def58bd0ea6f7af12ad334
+    digest: 174f8a0de23cb122c67c625ea1e6cc6533d9ea8fcc167f4408afc6a99bd3254e
     name: example
     urls:
-    - https://github.com/ppanero/helm-chart-test/releases/download/example-0.2.0/example-0.2.0.tgz
-    version: 0.2.0
-generated: "2020-03-12T15:28:23.077316105Z"
+    - https://github.com/ppanero/helm-chart-test/releases/download/example-0.3.0/example-0.3.0.tgz
+    version: 0.3.0
+generated: "2020-03-12T15:31:38.12077128Z"
